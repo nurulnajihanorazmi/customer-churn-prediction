@@ -1,6 +1,3 @@
-# customer-churn-prediction
-Customer churn prediction using machine learning
-
 # Customer Churn Prediction Using Machine Learning
 
 This project predicts telecom customer churn using machine learning models and customer behavioral data.
