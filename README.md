@@ -8,7 +8,8 @@ Customer churn prediction helps telecom companies identify customers who are lik
 
 ## Dataset
 
-Telco Customer Churn 
+Telco Customer Churn
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Machine Learning Models
