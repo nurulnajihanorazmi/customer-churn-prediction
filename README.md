@@ -6,6 +6,11 @@ This project predicts telecom customer churn using machine learning models and c
 
 Customer churn prediction helps telecom companies identify customers who are likely to leave the service. Early detection enables companies to implement retention strategies and reduce revenue loss.
 
+## Dataset
+
+Telco Customer Churn 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ## Machine Learning Models
 
 The following models were implemented:
